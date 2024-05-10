@@ -36,11 +36,8 @@ body{
     margin:0 auto
 }
 
-#container h1{
-    font-size:32px
-}
+#container h1 {
+    font-size: 20px;
 
-#post{
-    background:white;
-    padding:3em
+
 }
