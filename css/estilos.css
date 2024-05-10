@@ -21,12 +21,14 @@ body{
 }
 
 #cabecera #tagline{
+    color:white;
     padding:0 0 0 1em;
     font-weight:400;
     font-size:.8em
 }
 
 #container{
+    color:darkgrey, whitesmoke;
     width:70%;
     padding:0;
     text-align:left;
@@ -35,7 +37,7 @@ body{
 }
 
 #container h1{
-    font-size:20px
+    font-size:32px
 }
 
 #post{
