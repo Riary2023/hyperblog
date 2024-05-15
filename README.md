@@ -16,4 +16,6 @@ En este curso vemos de todo:
 
 • Las personalidades multiples de Feddy
 
+• Creado por el increible Platzi Team
+
 Y como un amable recordatorio: ^^Este readme.md es un chiste^^. Diseñado para ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
